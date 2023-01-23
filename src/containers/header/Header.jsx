@@ -1,13 +1,13 @@
 import React from 'react';
 import people from '../../assets/people.png';
-import ai from '../../assets/ai.png';
+import header from '../../assets/header.jpg';
 import './header.css';
 
 const Header = () => {
   return (
     <div className="gpt3_header section_padding" id="home">
       <div className="gpt3_header-content">
-        <h1 className="gradient_text">Let's Build Something amazing with GPT-3 OpenAI</h1>
+        <h1 className="gradient_text">The Science Websites That We Read Every Day</h1>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem rem, corporis illum impedit cumque laboriosam in inventore exercitationem sequi. Quam?</p>
 
         <div className="gpt3_header-content_input">
@@ -21,7 +21,7 @@ const Header = () => {
       </div>
 
       <div className="gpt3_header-image">
-        <img src={ai} />
+        <img src={header} />
       </div>
     </div>
   );

@@ -1,13 +1,13 @@
-import blog01 from '../../assets/blog01.png';
-import blog02 from '../../assets/blog02.png';
-import blog03 from '../../assets/blog03.png';
-import blog04 from '../../assets/blog04.png';
-import blog05 from '../../assets/blog05.png';
+import blog001 from '../../assets/blog001.jpg';
+import blog002 from '../../assets/blog002.jpg';
+import blog003 from '../../assets/blog003.jpg';
+import blog004 from '../../assets/blog004.jpg';
+import blog005 from '../../assets/blog005.jpg';
 
 export {
-  blog01,
-  blog02,
-  blog03,
-  blog04,
-  blog05
+  blog001,
+  blog002,
+  blog003,
+  blog004,
+  blog005
 };

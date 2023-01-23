@@ -1,12 +1,12 @@
 import React from 'react';
-import possibilityImage from '../../assets/possibility.png';
+import section from '../../assets/section.jpg';
 import './possibility.css';
 
 const Possibility = () => {
   return (
     <div className="gpt3_possibility section_padding" id="possibility">
       <div className="gpt3_possibility-image">
-        <img src={possibilityImage} alt="possibility" />
+        <img src={section} alt="possibility" />
       </div>
       <div className="gpt3_possibility-content">
         <h4>Request Early Access to Get Started</h4>

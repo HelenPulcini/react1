@@ -10,9 +10,10 @@ const Possibility = () => {
       </div>
       <div className="gpt3_possibility-content">
         <h4>Request Early Access to Get Started</h4>
-        <h1 className="gradient_text">The possibilities are <br /> beyond your imagination</h1>
+        <h1 className="gradient_text">Live Science is part of an international media group and leading digital
+                    publisher</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum sit exercitationem maiores atque quos architecto vero dicta enim accusantium omnis</p>
-        <h4>Get a Free Personalised Career Roadmap</h4>
+        <h4>Visit our corporate site</h4>
       </div>
     </div>
   )

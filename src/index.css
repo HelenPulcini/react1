@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
 
 :root {
-  --font-family: 'Manrope', sans-serif;
+  --font-family: 'Prosto One', cursive;
 
   --gradient-text: linear-gradient( 90deg, #ae67fa, #f5995b);
   --gradient-bar: linear-gradient( 105deg, #ae67fa, #f5995b);
